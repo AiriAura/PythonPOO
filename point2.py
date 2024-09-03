@@ -7,10 +7,7 @@ class Point():
         self.x = 0
         self.y = 0
 
-    def distance(self, x, y):
-        self.x = x*2 
-        self.y = y*2
-        
+
 #Ejercicio: crear un método que devuelva todos los puntos al origen
 
 p1 = Point()
